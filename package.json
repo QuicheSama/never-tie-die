@@ -1,0 +1,22 @@
+{
+  "name": "never-tie-die",
+  "version": "1.0.0",
+  "description": "A module for creating sets of fair dice guarenteed to  produce a winner (i.e. they never tie).",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuicheSama/never-tie-die.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Keshav Behari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuicheSama/never-tie-die/issues"
+  },
+  "homepage": "https://github.com/QuicheSama/never-tie-die#readme"
+}
